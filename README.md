@@ -28,8 +28,19 @@ Results may be incomplete, outdated, or incorrect. Always verify with the origin
 
 ## Download
 
-Go to the **Releases** section of this repository and download the latest Windows package.
+Download the latest Windows build from the [Releases](../../releases) page.
 
+Current release:
+- `v1.0.0` — Windows `.zip` package
+
+## Support
+
+If you find an issue with the public release, open an Issue in this repository with:
+- what you searched for
+- what happened
+- what you expected
+- your Windows version
+  
 ## Source code
 
 This public repository is for product information and release distribution only.
